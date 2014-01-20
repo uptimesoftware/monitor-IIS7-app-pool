@@ -1,0 +1,8 @@
+name=IIS 7 App Pool Status Monitor
+version=1.1
+platforms=windows linux solaris
+description=Monitor IIS 7 aApplication pool status (running/stopped/etc).
+requiresAgentScript=false
+restartCore=false
+onUpgradeRemoveFiles=true
+onUpgradeRemoveMonitors=false
